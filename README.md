@@ -2,6 +2,6 @@
 
 - [Film Photography](https://github.com/paul-lucas-photo/Film-Photography/)
 
-- [Leica Cameras]()
+- [Leica Cameras](https://github.com/paul-lucas-photo/Leica)
 
 - [Medium Format](https://github.com/paul-lucas-photo/Medium-Format/)
